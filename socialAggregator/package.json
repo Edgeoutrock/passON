@@ -19,7 +19,7 @@
     "passport-google-oauth": "^0.2.0",
     "passport-twitter": "^1.0.3",
     "passport-facebook": "^2.0.0",
-    "mongoose": "^4.0.5",
+    "mongoose": "^5.9.9",
     "https": "^1.0.0",
     "oauth": "^0.9.13"
   }
